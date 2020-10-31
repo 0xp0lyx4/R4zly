@@ -2,7 +2,7 @@
 
 ## I Love Cyber Security and programming.
 
-:octocat: I’m currently working on Cyber Security.</br>
+:octocat: I'm interested in cyber security.</br>
 :trollface: I opened my own hacking forum. [Forum]</br>
 :ghost: I Have a blog where I write articles about hacking. [Blog]
 
