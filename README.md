@@ -4,7 +4,7 @@
 
 :octocat: I’m currently working on Cyber Security.</br>
 :trollface: I opened my own hacking forum. [Forum]</br>
-:blue_book: I Have a blog where I write articles about hacking. [Blog]
+:open_file_folder: I Have a blog where I write articles about hacking. [Blog]
 
 
 ## Contact Me:
