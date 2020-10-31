@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm R4zly 👋</h1>
 
-## I love Cyber Security and programming.
+## I Love Cyber Security and programming.
 
-https://github.githubassets.com/images/icons/emoji/octocat.png I’m currently working on Cyber Security.
+:octocat: I’m currently working on Cyber Security.
 :trollface: I opened my own hacking forum. [Forum]
 :blue_book: I have a blog where I write articles about hacking. [Blog]
 
