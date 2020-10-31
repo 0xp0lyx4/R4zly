@@ -10,7 +10,7 @@
 ## Contact Me:
 
 [<img align="left" alt="iletisim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="iletisim | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebok.svg" />][Facebook]
+[<img align="left" alt="iletisim | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="iletisim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="iletisim | Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 <br />
