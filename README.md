@@ -11,7 +11,7 @@
 
 [<img align="left" alt="iletisim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="iletisimiletisim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="iletisim | Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Discord]
+[<img align="left" alt="iletisim | Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 <br />
 
 ## My Skills:
@@ -43,6 +43,6 @@
 
 [Twitter]: https://twitter.com/R4zlySecurity
 [Instagram]: https://instagram.com/r4zly.sec
-[Discord]: https://discord.gg/elithatz/
+[Discord]: https://discord.com/invite/elithatz/
 [Forum]: https://elithatz.com/
 [Blog]: https://r4zly.com/
