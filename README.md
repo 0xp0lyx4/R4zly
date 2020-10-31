@@ -2,9 +2,9 @@
 
 ## I Love Cyber Security and programming.
 
-:octocat: I’m currently working on Cyber Security.
-:trollface: I opened my own hacking forum. [Forum]
-:blue_book: I have a blog where I write articles about hacking. [Blog]
+:octocat: I’m currently working on Cyber Security.</br>
+:trollface: I opened my own hacking forum. [Forum]</br>
+:blue_book: I Have a blog where I write articles about hacking. [Blog]
 
 
 ## Contact Me:
