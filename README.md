@@ -4,7 +4,6 @@
 
 I'm interested in cybersecurity and Coding.
 <a href="https://twitter.com/0xp0lyx4">
-I'm interested in cybersecurity and Coding.
 <img align="left" alt="0xp0lyx4 - Twitter" width="21px" 
 src="https://i.hizliresim.com/Fj14XH.png" />
 <br />
