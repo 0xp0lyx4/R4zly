@@ -22,7 +22,7 @@
 [Twitter]: https://twitter.com/0xp0lyx4
 [Instagram]: https://instagram.com/r4zly.sec
 [Discord]: https://discord.gg/BaQk6v7kW2
-[Blog]: https://r4zly.com/
+[Blog]: https://0xp0lyx4.blogspot.com/
 [Facebook]: https://www.facebook.com/r4zly.sec
 
 
